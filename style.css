@@ -30,14 +30,14 @@
       }
       
       .name1{
-        font-size: 1.1rem;
-        font-weight: 500;
+        font-size: medium;
+    
+        font-weight: 700;
         position: relative;
         top:-14px;
+        
       }
-      .name1 span{
-        font-weight: 600;
-      }
+      
 
       .cake-wrapper{
         position: relative;
