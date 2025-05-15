@@ -10,11 +10,11 @@
         scrollbar-width: none;
         overflow: hidden;
       }
-      
+
 
     
       body {
-        background-image: url('Photoro.JPG');
+        background-image: url(/Photoroom_20250515_164803\ \(1\).jpg);
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
