@@ -10,10 +10,11 @@
         scrollbar-width: none;
         overflow: hidden;
       }
+      
 
     
       body {
-        background-image: url('Photoro.jpg');
+        background-image: url('Photoro.JPG');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
