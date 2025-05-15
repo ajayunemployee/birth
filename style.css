@@ -31,9 +31,12 @@
       
       .name1{
         font-size: 1.1rem;
-        font-weight: 600;
+        font-weight: 500;
         position: relative;
-        top:-9px;
+        top:-14px;
+      }
+      .name1 span{
+        font-weight: 600;
       }
 
       .cake-wrapper{
