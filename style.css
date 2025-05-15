@@ -14,7 +14,7 @@
 
     
       body {
-        background-image: url('images/Photoroom_20250515_164803\ \(1\).jpg');
+        background-image: url('images/bg.jpg');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
@@ -33,7 +33,7 @@
         font-size: 1.1rem;
         font-weight: 600;
         position: relative;
-        top:100px;
+        top:1px;
       }
 
       .cake-wrapper{
@@ -152,7 +152,7 @@
       }
     
 
-     @media only screen and (max-width: 800px) {
+    /* @media only screen and (max-width: 800px) {
      #cake {
        
         
