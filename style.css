@@ -14,7 +14,7 @@
 
     
       body {
-        background-image: url(/Photoroom_20250515_164803\ \(1\).jpg);
+        background-image: url('images/Photoroom_20250515_164803\ \(1\).jpg');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
